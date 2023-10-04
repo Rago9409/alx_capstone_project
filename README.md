@@ -1,12 +1,37 @@
 Project Overview:
-        Provide a brief description of the project, its purpose, and goals. Explain what problem the project aims to solve or what value it brings to users.
+      This project is all about providing distance education through online for some people unable to follow face to face class.
 Features and Functionality:
-        List the main features and functionalities of the project. Describe how users can interact with the application and any notable aspects or unique selling points.
+        The project provides:
+                 Online course registration
+                Distributing module and tutorials online
+                 Distributing and Submitting assignments online
+                 Help new applicants online applying
+                 Support online payment
+                 Online examination
+                 Discussion forum for all users that have an account.
+                 Help students to chat with each other what make them confuse.
+                 Provide curriculum and batch management system
+                 Support instructor’s and advisor’s management
+                 Provide course syllabus and time schedule
+                 Provide course lists and course management system
 Technologies Used:
-        Specify the technologies, frameworks, and languages used in the project. This can include HTML, CSS, JavaScript, Python, specific libraries, or frameworks like Flask, and any other tools or services utilized.
+       We used UML, E-draw and Atom or sublime while we are designing our new system. The development tools that i will use are:
+                 For the front-end application we used……. PHP.
+                 For the back-end application we used……. MySQL database.
+                 And we use Xampp server to configure a MySQL database and to use php applications for easy
+                configuration and maintenance.
+                 Server-side scripting: PHP
+                 Client-side scripting: by considering the following characteristics we use java script. It can be
+                embedded in HTML page and it is very popular in validation process.
+                 for presentation……………. Power point and MS-word.
+                 Static webpage: HTML is highly flexible with CSS to use different layouts
 Screenshots or Demo:
-        Include screenshots or a link to a live demo if available. Visual representations can help readers understand the project’s appearance and functionality.
+        Here is my local link to my demo:
+           C:\Users\CBE\Desktop\Alx\alx_capstone_project\Demo.png
 Roadmap and future enhancements:
-        Share any future plans or potential improvements for the project. This could include additional features, performance optimizations, or scalability considerations.
+        It is better to inform others who are interested to do on this project, the system doesn’t support: -
+                 Grading (but, it can be integrated with SIS online portal).
+                 Students who are not able to see (i.e. blind people).
+                 Internet less services (i.e. its internet based).ability considerations.
 Contact information:
-        Include your name, along with contact information or links to personal portfolios or social media profiles.
+        email:teshomerego@gmail.com
